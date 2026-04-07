@@ -4,9 +4,17 @@
 
 > Paste your GitHub repo. Ask anything. Get code that actually fits your codebase.
 
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge)](https://youtu.be/yAmvyOEalBU?si=qKijhf8PdA1e8mty)
+
 ---
 
-## How to run 
+## 📹 Demo Video
+
+**[→ Watch Demo on YouTube](https://youtu.be/yAmvyOEalBU?si=qKijhf8PdA1e8mty)**
+
+---
+
+## How to run
 
 ### What you need
 - [Docker Desktop](https://docker.com) installed and running
