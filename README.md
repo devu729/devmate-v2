@@ -162,23 +162,6 @@ Chat / Generate / Debug with full repo context
 | **Knowledge Base** | Architecture designed for DO Gradient KB vector search; uses prompt injection for broad compatibility |
 | **Agent pattern** | System prompts inject full repo context — file tree, pinned deps, naming conventions, entry points |
 
----
-
-## Why DevMate beats Cursor, Copilot, and ChatGPT
-
-| Feature | DevMate v2 | Cursor | GitHub Copilot | ChatGPT |
-|---------|-----------|--------|---------------|---------|
-| Full repo indexing | ✅ | Partial | ❌ | ❌ |
-| Pinned dep version awareness | ✅ | ❌ | ❌ | ❌ |
-| File path validation | ✅ | ❌ | ❌ | ❌ |
-| Naming convention matching | ✅ | ❌ | ❌ | ❌ |
-| Self-hosted on DO infrastructure | ✅ | ❌ | ❌ | ❌ |
-| Debug with repo context | ✅ | Partial | ❌ | ❌ |
-| No IDE install required | ✅ | ❌ | ❌ | ✅ |
-| Python + Node + Go + Rust deps | ✅ | ❌ | ❌ | ❌ |
-
----
-
 ## Project structure
 
 ```
